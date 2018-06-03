@@ -19,7 +19,7 @@ get_header(); ?>
           Register your child today for the best musical experience I can give!
         </p>
 
-        <form role="form" class="clearfix" method="POST" action="https://formspree.io/kmcmanus41092@gmail.com">
+        <form role="form" class="clearfix" method="POST" action="https://formspree.io/fmkeim@gmail.com">
           <div class="row">
             <div class="col-sm-12">
               <div class="form-group">

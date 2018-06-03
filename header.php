@@ -17,6 +17,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="keywords" content="full service music school private lessons guitar bass guitar piano drums voice vocal instruction loudoun county va">
 	<meta name="description" content="A full sevice music school teaching Guitar, Bass Guitar, Piano, Drums and Voice and Vocal Instruction. Private Lessons in  Loudoun County VA">
+	<meta property="og:title" content="Loudoun Music Instruction">
+	<meta property="og:description" content="A full sevice music school teaching Guitar, Bass Guitar, Piano, Drums and Voice and Vocal Instruction. Private Lessons in  Loudoun County VA">
+	<meta property="og:url" content="http://loudounmusic.com/">
+	<meta property="og:image" content="http://loudounmusic.com/wp-content/uploads/2018/05/piano_thumbnail.jpg"/>
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 

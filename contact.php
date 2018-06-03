@@ -11,7 +11,7 @@ get_header(); ?>
 <!-- CONTACT -->
 <div class="container">
   <h2 class="contact-page-blurb">Leave us a message!</h2>
-  <form role="form" class="clearfix" method="POST" action="https://formspree.io/kmcmanus41092@gmail.com" id="contact-form">
+  <form role="form" class="clearfix" method="POST" action="https://formspree.io/fmkeim@gmail.com" id="contact-form">
     <div class="row">
       <div class="col-sm-12">
         <div class="form-group">

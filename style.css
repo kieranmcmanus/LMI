@@ -544,7 +544,7 @@ p img {
 }
 
 .feature-image-default {
-	background: url('/lmi/wp-content/themes/lmi_theme/assets/img/headphones.jpg') no-repeat;
+	background: url('/wp-content/themes/lmi_theme/assets/img/headphones.jpg') no-repeat;
 	background-size: cover;
 }
 
@@ -602,7 +602,11 @@ p img {
     height: 500px;
 }
 
-/* INSTRUCTORS */
+/* INSTRUCTORS & BANDS */
+
+#band-intro {
+  padding: 50px;
+}
 
 .instructor, .band {
   padding-left: 10px;
@@ -700,6 +704,7 @@ fieldset label {
 .post-image img,
 .post-image img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
     height: auto;
+		max-width: 100% !important;
 }
 
 .post-details {
